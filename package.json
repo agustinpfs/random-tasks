@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/agustinpfs/random-tasks/issues"
   },
-  "homepage": "https://github.com/agustinpfs/random-tasks#readme"
+  "homepage": "https://github.com/agustinpfs/random-tasks#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "consolidate": "^0.14.0",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.10",
+    "nunjucks": "^2.4.1"
+  }
 }

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Random Tareas 2.0</title>
+</head>
+<body>
+	<h1>Insert task and time!</h1>
+	<form action="/add_task" method="POST">
+		<h3>Task</h3>
+		<input type="text" name="task" value="">
+		<h3>Choose time</h3>
+		<select name="time">
+			<option value="5">5</option>
+			<option value="10">10</option>
+			<option value="15">15</option>
+			<option value="25">25</option>
+			<option value="45">45</option>
+			<option value="60">60</option>
+		</select>
+		<input type="submit" value="add to list">	
+	</form>
+</body>
+</html>
