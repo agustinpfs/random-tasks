@@ -1,0 +1,25 @@
+{
+  "name": "random-tasks",
+  "version": "2.0.0",
+  "description": "action and productivity",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/agustinpfs/random-tasks.git"
+  },
+  "keywords": [
+    "to",
+    "do",
+    "list",
+    "productivity"
+  ],
+  "author": "Agustin Palmieri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agustinpfs/random-tasks/issues"
+  },
+  "homepage": "https://github.com/agustinpfs/random-tasks#readme"
+}
